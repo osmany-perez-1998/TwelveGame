@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwuelveBehind", "TwuelveBehind\TwuelveBehind.csproj", "{4D241866-10B1-4BBA-9645-20D3EA593906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twuelve.Visual", "Twuelve.Visual\Twuelve.Visual.csproj", "{2E0C5B0E-2C6F-422C-BE15-06978000A935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D241866-10B1-4BBA-9645-20D3EA593906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D241866-10B1-4BBA-9645-20D3EA593906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D241866-10B1-4BBA-9645-20D3EA593906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D241866-10B1-4BBA-9645-20D3EA593906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0C5B0E-2C6F-422C-BE15-06978000A935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0C5B0E-2C6F-422C-BE15-06978000A935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0C5B0E-2C6F-422C-BE15-06978000A935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0C5B0E-2C6F-422C-BE15-06978000A935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

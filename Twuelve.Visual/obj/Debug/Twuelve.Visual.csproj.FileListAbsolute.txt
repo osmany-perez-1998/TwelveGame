@@ -1,0 +1,42 @@
+D:\Desktop\TwuelveBehind\Twuelve.Visual\bin\Debug\Twuelve.Visual.exe.config
+D:\Desktop\TwuelveBehind\Twuelve.Visual\bin\Debug\Twuelve.Visual.exe
+D:\Desktop\TwuelveBehind\Twuelve.Visual\bin\Debug\Twuelve.Visual.pdb
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.csprojResolveAssemblyReference.cache
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.GameStyle.resources
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.Properties.Resources.resources
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.Start.resources
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.csproj.GenerateResource.Cache
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.exe
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.pdb
+D:\Desktop\TwuelveBehind\Twuelve.Visual\obj\Debug\Twuelve.Visual.TwuelvePlay.resources
+D:\Desktop\TwuelveBehind\Twuelve.Visual\bin\Debug\TwuelveBehind.dll
+D:\Desktop\TwuelveBehind\Twuelve.Visual\bin\Debug\TwuelveBehind.pdb
+D:\Desktop\Osmany Perez Rodriguez C-122\Twuelve.Visual\bin\Debug\Twuelve.Visual.exe.config
+D:\Desktop\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.exe
+D:\Desktop\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.pdb
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\bin\Debug\Twuelve.Visual.exe.config
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.exe
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.pdb
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.csprojResolveAssemblyReference.cache
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.GameStyle.resources
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.Properties.Resources.resources
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.Start.resources
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.TwuelvePlay.resources
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\obj\Debug\Twuelve.Visual.csproj.GenerateResource.Cache
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\bin\Debug\Twuelve.Visual.exe
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\bin\Debug\Twuelve.Visual.pdb
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\bin\Debug\TwuelveBehind.dll
+D:\Osmany Perez Rodriguez C-122\Twuelve.Visual\bin\Debug\TwuelveBehind.pdb
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\bin\Debug\Twuelve.Visual.exe.config
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.exe
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.pdb
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\bin\Debug\Twuelve.Visual.exe
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\bin\Debug\Twuelve.Visual.pdb
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\bin\Debug\TwuelveBehind.dll
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\bin\Debug\TwuelveBehind.pdb
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.csprojResolveAssemblyReference.cache
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.GameStyle.resources
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.Properties.Resources.resources
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.Start.resources
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.TwuelvePlay.resources
+D:\Osmany Perez Rodriguez C-122 mejorado\Twuelve.Visual\obj\Debug\Twuelve.Visual.csproj.GenerateResource.Cache
